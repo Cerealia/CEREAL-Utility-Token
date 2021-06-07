@@ -1,2 +1,2 @@
-# CEREAL-Utility-Token
-Cerealia Utility Token
+# Cerealia-Utility-Token
+Cereal (CRL) ERC20 smart contract
